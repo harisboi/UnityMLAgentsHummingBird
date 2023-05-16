@@ -1,6 +1,6 @@
 # UnityMLAgentsHummingBird
 
-#Cumulative Reward
+# Cumulative Reward
 ![WhatsApp Image 2023-05-07 at 10 09 03 PM](https://github.com/harisboi/UnityMLAgentsHummingBird/assets/125253097/137844a5-4344-4017-a888-3d0a10d78a9f)
 
 # Policy
